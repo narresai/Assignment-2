@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(5, 42, 110);
+    color : white;
+}
+
+h2{
+    color: forestgreen;
+}
+a{
+    margin-right: 15px;
+    color: brown;
+}
